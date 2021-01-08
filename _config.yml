@@ -2,7 +2,7 @@ title: Looking Forward To
 description: Interested in Algorithm, Web Development, Machine-Learning
 
 url: http://kim-hyunjo.github.io/looking-forward-to
-baseurl: "/looking-forward-to"
+baseurl: "/looking-forward-to/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
