@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Looking Forward To
+description: Interested in Algorithm, Web Development, Machine-Learning
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: http://kim-hyunjo.github.io/looking-forward-to
+baseurl: "/looking-forward-to"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -23,13 +23,11 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: Kim-Hyunjo
+  email: tulip23@naver.com
+  linkedin: Hyunjo
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
 
 disqus:
-    shortname: brianmaierjr
+    shortname: Hyunjo
