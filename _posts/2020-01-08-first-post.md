@@ -1,0 +1,10 @@
+---
+layout: post
+title: "First post"
+date:   2021-01-08
+---
+
+<p class="intro"><span class="dropcap">H</span>ello it's a new blog from Kim-Hyunjo.</p>
+I established this blog to writed down and collect things I learned.
+Also I'm trying to get used to using git and github.
+Now it's 2021 Winter and I've got some goals to achieve such as solving a lot of algorithm problems, making a web page using spring framework, studying Computer science with Cousera(computer network, operating system, database...), and taking first step on machine-learning.
